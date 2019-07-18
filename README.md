@@ -1,0 +1,2 @@
+# Erk Theme Compiler
+This is a theme compiler for Erk.  To create a new theme, clone this repository, edit the files in "Theme", and when you're ready to use your theme, run `python erktheme.py` with the name of your theme as the only argument. This will create a zip file using the theme's name, which can then be imported into Erk with the `-T` or `--install-theme` arguments. This archive can also be extracted directly into your Erk's theme folder.

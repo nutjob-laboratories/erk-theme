@@ -1,0 +1,14 @@
+{
+    "font": "Consolas,10,-1,5,50,0,0,0,0,0,Regular",
+    "system": "#FF9C00",
+    "self": "#FF0000",
+    "user": "#00007F",
+    "action": "#009300",
+    "notice": "#9C009C",
+    "error": "#FF0000",
+    "highlight": "#76448A",
+    "link": "#0000FF",
+    "new-chat-divider-text": "#000000",
+    "new-chat-divider": "#FFFFFF",
+    "banner-text": ""
+}
