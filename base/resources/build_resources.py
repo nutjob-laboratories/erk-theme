@@ -7,6 +7,9 @@ fl = []
 for file in glob.glob("*.png"):
 	fl.append(f"<file>{file}</file>")
 
+# for file in glob.glob("*.wav"):
+# 	fl.append(f"<file>{file}</file>")
+
 # fl.append("<file>cnr.otf</file>")
 
 # fl.append("<file>DejaVuSansMono.ttf</file>")
